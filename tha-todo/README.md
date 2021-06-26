@@ -1,4 +1,9 @@
-# IndexDB
+# Todify.
+
+## Feature
+- It has a sort of virtual state, (It's quite simple but helps a lot.)
+
+## IndexDB
 - https://javascript.info/indexeddb
 
 ## Setup 
