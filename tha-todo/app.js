@@ -10,9 +10,6 @@ $ = (el) => {
   }
 }
 
-var todos = [
-]
-
 state = {
   todos: []
 }
